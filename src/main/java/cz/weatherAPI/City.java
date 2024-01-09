@@ -1,0 +1,5 @@
+package cz.weatherAPI;
+
+public enum City {
+    BANGKOK,OPAVA,LOS_ANGELES,LONDON,SYDNEY,PRAHA,OTTAWA,JAKUTSK
+}
